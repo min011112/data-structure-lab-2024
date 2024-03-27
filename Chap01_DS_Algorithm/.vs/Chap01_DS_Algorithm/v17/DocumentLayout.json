@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\data-structure-lab-2024\\Chap01_DS_Algorithm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A88E7DF-9BD6-4EC0-99B1-CA26603AAF41}|Chap01_Findmax\\Chap01_Findmax.vcxproj|C:\\Users\\USER\\Documents\\data-structure-lab-2024\\Chap01_DS_Algorithm\\Chap01_Findmax\\find_max.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A88E7DF-9BD6-4EC0-99B1-CA26603AAF41}|Chap01_Findmax\\Chap01_Findmax.vcxproj|solutionrelative:Chap01_Findmax\\find_max.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{524BF8E5-AE64-4BC5-9C39-FD3D3CBB3464}|HelloWorld\\HelloWorld.vcxproj|C:\\Users\\USER\\Documents\\data-structure-lab-2024\\Chap01_DS_Algorithm\\HelloWorld\\hello_world.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{524BF8E5-AE64-4BC5-9C39-FD3D3CBB3464}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\hello_world.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "find_max.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\data-structure-lab-2024\\Chap01_DS_Algorithm\\Chap01_Findmax\\find_max.cpp",
+              "RelativeDocumentMoniker": "Chap01_Findmax\\find_max.cpp",
+              "ToolTip": "C:\\Users\\USER\\Documents\\data-structure-lab-2024\\Chap01_DS_Algorithm\\Chap01_Findmax\\find_max.cpp",
+              "RelativeToolTip": "Chap01_Findmax\\find_max.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T02:07:31.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hello_world.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\data-structure-lab-2024\\Chap01_DS_Algorithm\\HelloWorld\\hello_world.cpp",
+              "RelativeDocumentMoniker": "HelloWorld\\hello_world.cpp",
+              "ToolTip": "C:\\Users\\USER\\Documents\\data-structure-lab-2024\\Chap01_DS_Algorithm\\HelloWorld\\hello_world.cpp",
+              "RelativeToolTip": "HelloWorld\\hello_world.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T02:08:05.033Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
